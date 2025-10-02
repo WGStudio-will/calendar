@@ -1,0 +1,6 @@
+table,tr,td{
+    border: 1px solid black;
+    font-size: 160%;
+    text-align: center;
+    padding: 30px;
+}
